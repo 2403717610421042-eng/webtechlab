@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE feedbacks SYSTEM "feedback.dtd">
+<?xml-stylesheet type="text/xsl" href="feedback.xsl"?>
+<feedbacks>
+    <feedback>
+        <name>Alice Smith</name>
+        <event>Tech Fest 2026</event>
+        <rating>5</rating>
+    </feedback>
+    <feedback>
+        <name>Bob Johnson</name>
+        <event>CodeFest</event>
+        <rating>4</rating>
+    </feedback>
+</feedbacks>

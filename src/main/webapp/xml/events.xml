@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="events.xsd">
+    <event>
+        <name>CodeFest 2026</name>
+        <date>2026-11-20</date>
+        <venue>CS Lab 1</venue>
+        <maxMembers>100</maxMembers>
+    </event>
+    <event>
+        <name>TechTalk 2026</name>
+        <date>2026-11-22</date>
+        <venue>Auditorium</venue>
+        <maxMembers>500</maxMembers>
+    </event>
+</events>
